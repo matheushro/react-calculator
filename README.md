@@ -2,7 +2,11 @@
 
 ## Scripts.
 
-Iniciar. (Start.)
+Baixar (Download) ReactJS.
+
+### `npm install`
+
+Iniciar (Start).
 
 ### `npm start`
 
